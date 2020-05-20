@@ -1,42 +1,51 @@
-* Reúna los ingredientes
+reunirIngredientes(){
     Pan ( Rebanado, Barra, Blanco, Integral, Trigo, Centeno )
     aderezo ( Mayonesa, crema, mostaza ),
     jamón ( Pierna, pavo ),
     Queso ( Chihuahua, manchego, gouda )
     vegetales ( lechuga, tomate, cebolla, pepino, pepinillos )
     Picante ( Salsa, chile de diversos tipos)
+  }
 
-* Reúna los utensilios de cocina
+reunirUtensilios(){
     Cuchillos (Serrado, cebollero)
     Tabla de picar (madera, plástico)
     Platos
     Servilletas
+  }
 
-* Preparar los vegetales
+prepararVegetales() {
     Rebanar tomates
     Rebanar cebolla
     Deshojar lechuga
     Rebanar pepino
+}
 
-* Tomar 2 rebanadas de pan
+reunirPan() {
     Abrir paquete de pan rebanado o rebanar barra de pan.  ¿Quitar orillas?
+}
 
-* Embadurnar ambas rebanadas de pan
+embadurnarPan(){
     ¿Ambas con mayonesa? ¿Una con mayonesa otra con mostaza?
+}
 
-* Colocar Jamón sobre un pan
+colocarJamon() {
     ¿Una rebanada? ¿Dos?
+}
 
-* Colocar los vegetales
-    Agregar x hojas de lechuga sobre el jamón
-         “  x rodajas de tomate sobre la lechuga
-         “ x rodajas de cebolla sobre el tomate
-         “ x rodajas de pepino sobre la cebolla
+colocarVerdura() ´{    
+	Agregar x hojas de lechuga sobre el jamón
+    “ x rodajas de tomate sobre la lechuga
+    “ x rodajas de cebolla sobre el tomate
+	“ x rodajas de pepino sobre la cebolla
+}
 
-* Agregar Picante
+agregarPicante() {
     ¿Qué cantidad? ¿Qué tipo?
+}
 
-* Colocar Segunda Rebanada de Pan
+colocarSegundaRebanada() {
     ¿Cortar por mitades? ¿Cuartos?
+}
 
-* Envolver el sándwich
+envolverSandwich() {}

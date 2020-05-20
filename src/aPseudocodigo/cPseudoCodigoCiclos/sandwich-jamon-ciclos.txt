@@ -1,0 +1,7 @@
+numeroSandwich = 0
+while(numeroSandwich menor que 5){
+	hacerSandwichJamon()
+	hacerSandwichBolonia()
+	hacerSandwichBolonia()
+	suma 1 a numeroSandwich 
+}
